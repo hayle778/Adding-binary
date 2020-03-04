@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a219223e-ca8d-423f-98e8-5c978485571b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YdffWskc8S4dHCg4YRJ37GIGR2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Binary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Binary" />
+      <module name="BinaryNumber" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Binary" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a219223e-ca8d-423f-98e8-5c978485571b" name="Default Changelist" comment="" />
+      <created>1583277495487</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583277495487</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="682" height="213" key="GridCell.Tab.0.bottom" timestamp="1583283384792">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="682" height="213" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1583283384792" />
+    <state width="682" height="213" key="GridCell.Tab.0.center" timestamp="1583283384791">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="682" height="213" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1583283384791" />
+    <state width="682" height="213" key="GridCell.Tab.0.left" timestamp="1583283384791">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="682" height="213" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1583283384791" />
+    <state width="682" height="213" key="GridCell.Tab.0.right" timestamp="1583283384792">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="682" height="213" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1583283384792" />
+  </component>
+</project>
